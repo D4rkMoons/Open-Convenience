@@ -1,5 +1,5 @@
 01;|Open in new tab|https://github.com/brissonsean/Open-Convenience/blob/Sekiro-SekHiro/Local_Mods-DataBased%20/parts/wp_a_0300.partsbnd.dcx/Moonlight%20Inner%20Kusabimaru%204K/img/1.jpg?raw=true)
-02;|Open in new tab|https://github.com/brissonsean/Open-Convenience/blob/Sekiro-SekHiro/Local_Mods-DataBased%20/parts/wp_a_0300.partsbnd.dcx/Moonlight%20Inner%20Kusabimaru%204K/img/828-1624417118-1330014156.webp
+02;|Open in new tab|https://github.com/brissonsean/Open-Convenience/raw/Sekiro-SekHiro/Local_Mods-DataBased%20/parts/wp_a_0300.partsbnd.dcx/Moonlight%20Inner%20Kusabimaru%204K/img/828-1624417118-1330014156.webp
 03;|Open in new tab|
 04;|Open in new tab|
 05;|Open in new tab|
