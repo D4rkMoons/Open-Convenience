@@ -1,11 +1,14 @@
 01;|Open in new tab|https://github.com/brissonsean/Open-Convenience/blob/Sekiro-SekHiro/Local_Mods-DataBased%20/parts/wp_a_0300.partsbnd.dcx/Moonlight%20Inner%20Kusabimaru%204K/img/1.jpg?raw=true)
 02;|Open in new tab|https://github.com/brissonsean/Open-Convenience/raw/Sekiro-SekHiro/Local_Mods-DataBased%20/parts/wp_a_0300.partsbnd.dcx/Moonlight%20Inner%20Kusabimaru%204K/img/828-1624417118-1330014156.webp
-03;|Open in new tab|
-04;|Open in new tab|
-05;|Open in new tab|
-06;|Open in new tab|
-07;|Open in new tab|
-08;|Open in new tab|
+03;|Open in new tab|https://github.com/brissonsean/Open-Convenience/raw/Sekiro-SekHiro/Local_Mods-DataBased%20/parts/wp_a_0300.partsbnd.dcx/Moonlight%20Inner%20Kusabimaru%204K/img/828-1624417123-1232056532.webp
+04;|Open in new tab|https://github.com/brissonsean/Open-Convenience/raw/Sekiro-SekHiro/Local_Mods-DataBased%20/parts/wp_a_0300.partsbnd.dcx/Moonlight%20Inner%20Kusabimaru%204K/img/828-1624417133-1260616337.webp
+05;|Open in new tab|https://github.com/brissonsean/Open-Convenience/raw/Sekiro-SekHiro/Local_Mods-DataBased%20/parts/wp_a_0300.partsbnd.dcx/Moonlight%20Inner%20Kusabimaru%204K/img/828-1624417146-582137168.webp
+06;|Open in new tab|https://github.com/brissonsean/Open-Convenience/raw/Sekiro-SekHiro/Local_Mods-DataBased%20/parts/wp_a_0300.partsbnd.dcx/Moonlight%20Inner%20Kusabimaru%204K/img/828-1624417157-1684248543.webp
+07;|Open in new tab|https://github.com/brissonsean/Open-Convenience/raw/Sekiro-SekHiro/Local_Mods-DataBased%20/parts/wp_a_0300.partsbnd.dcx/Moonlight%20Inner%20Kusabimaru%204K/img/828-1624417167-179847367.webp
+08;|Open in new tab|https://github.com/brissonsean/Open-Convenience/raw/Sekiro-SekHiro/Local_Mods-DataBased%20/parts/wp_a_0300.partsbnd.dcx/Moonlight%20Inner%20Kusabimaru%204K/img/828-1624417176-654028549.webp
+09;|Open in new tab|https://github.com/brissonsean/Open-Convenience/raw/Sekiro-SekHiro/Local_Mods-DataBased%20/parts/wp_a_0300.partsbnd.dcx/Moonlight%20Inner%20Kusabimaru%204K/img/828-1625077027-310985986.webp
+10;|Open in new tab|https://github.com/brissonsean/Open-Convenience/raw/Sekiro-SekHiro/Local_Mods-DataBased%20/parts/wp_a_0300.partsbnd.dcx/Moonlight%20Inner%20Kusabimaru%204K/img/828-1625527289-2109251512.webp
+11;|Open in new tab|https://github.com/brissonsean/Open-Convenience/raw/Sekiro-SekHiro/Local_Mods-DataBased%20/parts/wp_a_0300.partsbnd.dcx/Moonlight%20Inner%20Kusabimaru%204K/img/828-1625527306-163920171.webp
 
 
 Inner Moonlight Kusabimaru 4K
