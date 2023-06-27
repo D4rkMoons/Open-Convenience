@@ -1,0 +1,1 @@
+![All](https://raw.githubusercontent.com/brissonsean/Open-Convenience/Sekiro-SekHiro/Local_Mods-DataBased%20/parts/wp_a_0300.partsbnd.dcx/Elden%20Ring%20Weapon%20Pack/BladeOfCalling/BladeOfCalling.jpeg)
