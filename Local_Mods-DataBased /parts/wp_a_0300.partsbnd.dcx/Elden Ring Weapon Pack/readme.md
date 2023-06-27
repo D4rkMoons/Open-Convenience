@@ -2,7 +2,10 @@ wp_a_0300.partsbnd.dcx	= Main weapon
 			  Kusabimaru
 
 wp_a_0310.partsbnd.dcx	= Mortal Blade
-![BladeOfCalling.jpeg](./Local_Mods-DataBased /parts/)
+![all](./Local_Mods-DataBased /parts/wp_a_0300.partsbnd.dcx/Elden Ring Weapon Pack/all.jpeg)
+![all2](https://raw.githubusercontent.com/brissonsean/Open-Convenience/Sekiro-SekHiro/Local_Mods-DataBased%20/parts/wp_a_0300.partsbnd.dcx/Elden%20Ring%20Weapon%20Pack/all.jpeg)
+
+
 Elden Ring Weapon Pack
 
     Endorsements
