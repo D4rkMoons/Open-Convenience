@@ -1,4 +1,6 @@
-![img1](./Local_Mods-DataBased /parts/wp_a_0300.partsbnd.dcx/Moonlight Inner Kusabimaru 4K/img/1.jpg)
+![img1](./Local_Mods-DataBased/parts/wp_a_0300.partsbnd.dcx/Moonlight Inner Kusabimaru 4K/img/1.jpg)
+<img src="./Local_Mods-DataBased/parts/wp_a_0300.partsbnd.dcx/Moonlight Inner Kusabimaru 4K/img/1.jpg" width=300 height=150>
+
 Inner Moonlight Kusabimaru 4K
 
     Endorsements
