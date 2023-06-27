@@ -1,4 +1,4 @@
-![img1](https://github.com/brissonsean/Open-Convenience/blob/Sekiro-SekHiro/Local_Mods-DataBased /parts/wp_a_0300.partsbnd.dcx/Moonlight Inner Kusabimaru 4K/img/1.jpg?raw=true)
+![img1](https://github.com/brissonsean/Open-Convenience/blob/Sekiro-SekHiro/Local_Mods-DataBased/parts/wp_a_0300.partsbnd.dcx/Moonlight Inner Kusabimaru 4K/img/1.jpg?raw=true)
 <img src="https://github.com/brissonsean/Open-Convenience/blob/Sekiro-SekHiro/Local_Mods-DataBased /parts/wp_a_0300.partsbnd.dcx/Moonlight Inner Kusabimaru 4K/img/1.jpg?raw=true" width=300 height=150>
 
 Inner Moonlight Kusabimaru 4K
