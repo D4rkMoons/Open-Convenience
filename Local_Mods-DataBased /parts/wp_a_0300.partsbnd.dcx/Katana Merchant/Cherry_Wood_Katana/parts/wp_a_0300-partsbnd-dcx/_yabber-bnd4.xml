@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bnd4>
+  <filename>wp_a_0300.partsbnd.dcx</filename>
+  <compression>SekiroDFLT</compression>
+  <timestamp>07D7R6</timestamp>
+  <format>0x74</format>
+  <bigendian>False</bigendian>
+  <flag1>False</flag1>
+  <flag2>False</flag2>
+  <unicode>True</unicode>
+  <extended>0x04</extended>
+  <files>
+    <file>
+      <flags>0x40</flags>
+      <id>100</id>
+      <root>N:\NTC\data\Target\INTERROOT_win64\</root>
+      <path>parts\Weapon\WP_A_0300\WP_A_0300.tpf</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>200</id>
+      <root>N:\NTC\data\Target\INTERROOT_win64\</root>
+      <path>parts\Weapon\WP_A_0300\WP_A_0300.flver</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>201</id>
+      <root>N:\NTC\data\Target\INTERROOT_win64\</root>
+      <path>parts\Weapon\WP_A_0300\WP_A_0300_1.flver</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>202</id>
+      <root>N:\NTC\data\Target\INTERROOT_win64\</root>
+      <path>parts\Weapon\WP_A_0300\WP_A_0300_2.flver</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>400</id>
+      <root>N:\NTC\data\Target\INTERROOT_win64\</root>
+      <path>parts\Weapon\WP_A_0300\WP_A_0300.anibnd</path>
+    </file>
+  </files>
+</bnd4>
