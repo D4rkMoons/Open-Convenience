@@ -1,0 +1,165 @@
+I was thinking of trying to get into modding, specifically the anims of Sekiro with DSAnimStudio, and I got to look at the GitHub. From 1.0.0, up to the latest 3.0.5 (currently) are not possible for my PC to work with, reason unknown, and so I only get to play and play and play . . . until now.
+So with the release of DSAnimStudio 4.9.3 PUBLIC Build, I finally get to experiment what's it's all about. It's a clutter, and that's a compliment, mind you.
+I don't have money to support Meowmaritus and access his releases on Patreon, so that's another reason why I can't be arsed to be on-time to release some mods before New Year comes by.
+
+With the help of many people from the Discord channel of For The Sake of Ashina and Sekiro Resurrection﻿ mostly, I was thinking of doing a mini-tutorial for adding the blocks that adds PARRY, maybe include MIKIRI in it too, which you should get to learn and ask around for more help to get what's what, as all this thing is convoluted and I barely understand any of these couple of weeks at the time of writing this article.
+
+What I'll be using as a reference is c000anibnd.dcx. (I ain't got time to add pics, so go figure)
+
+PARRY : I usually put them at the same frame with InvokeAttackBehavior, though you can adjust them to your liking. Put them to Kusabimaru (a050), Prosthetics (a070-079), Combat Arts (a100-a110), or something else you can find inside c000anibnd.dcx.
+
+{
+  "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents, DS ANIM STUDIO",
+  "EventClips": {
+    "$type": "System.Collections.Generic.List`1[[DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 0,
+        "EventUnk04": 0,
+        "EventStartTime": 0.8,
+        "EventEndTime": 0.96666664,
+        "EventRow": 80,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "AwAAAAAAAABaAAAABgAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 0
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 67,
+        "EventUnk04": 0,
+        "EventStartTime": 0.8,
+        "EventEndTime": 0.96666664,
+        "EventRow": 81,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "MpoBAAAAAAAAAAAAAAAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 67
+        }
+      }
+    ]
+  },
+  "StartRow": 80,
+  "StartTime": 0.8,
+  "IsBigEndian": false
+}
+
+MIKIRI : Sometimes I put them at the same frame as when the anim looking like it could do something to Mikiri Counter, like Nightjar Slash - Reversal or Chasing Slice. Adjust them on the time frame as you will. The longer, the more you are impermeable to damage(somehow) and more window to Mikiri.
+
+{
+  "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents, DS ANIM STUDIO",
+  "EventClips": {
+    "$type": "System.Collections.Generic.List`1[[DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 954,
+        "EventUnk04": 0,
+        "EventStartTime": 0.3,
+        "EventEndTime": 0.9,
+        "EventRow": 82,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "BwAAAAAAAAAAAAAAAAAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 954
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 954,
+        "EventUnk04": 0,
+        "EventStartTime": 0.3,
+        "EventEndTime": 0.9,
+        "EventRow": 83,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "AgAAAAAAAAAAAAAAAAAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 954
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 0,
+        "EventUnk04": 0,
+        "EventStartTime": 0.3,
+        "EventEndTime": 0.9,
+        "EventRow": 84,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "fQAAAAAAAAD/////BgAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 0
+        }
+      }
+    ]
+  },
+  "StartRow": 82,
+  "StartTime": 0.3,
+  "IsBigEndian": false
+}
+
+For more detail and help, you can enter the Discord link for For The Sake of Ashina, Sekiro Resurrection, ?ServerName, and Meowmaritus Zone﻿.
+The links are edited to expire NEVER... I hope.
+
+Discord : matalayu#2304
